@@ -1,19 +1,25 @@
-# Домашнее задание к занятию "`Домашнее задание к занятию «ELK»`" - `Копшев Юрий`
+# Домашнее задание к занятию "`«Работа с данными (DDL/DML)»`" - `Копшев Юрий`
 
 
 ---
 
-### Задание 1. Elasticsearch
+### Задание 1.
 
 
-![ скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch](https://github.com/YuriKopshev/elk_home_work/blob/main/img/elastic.png)
+![1.3. Выполните запрос на получение списка пользователей в базе данных](https://github.com/YuriKopshev/elk_home_work/blob/main/img/elastic.png)
+
+
+![1.5.Выполните запрос на получение списка прав для пользователя sys_temp. ](https://github.com/YuriKopshev/elk_home_work/blob/main/img/elastic.png)
+
+
+![1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)](https://github.com/YuriKopshev/elk_home_work/blob/main/img/elastic.png)
 
 
 ---
 
-### Задание 2. Kibana
+### Задание 2.
 
-![скриншот интерфейса Kibana](https://github.com/YuriKopshev/elk_home_work/blob/main/img/kibana.png)
+![ссылка на тектовый файл с ответом]()
 
 
 ---
@@ -29,5 +35,4 @@
 ### Задание 4. Filebeat
 
 ![скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat](https://github.com/YuriKopshev/elk_home_work/blob/main/img/filebeat.png)
-
 
