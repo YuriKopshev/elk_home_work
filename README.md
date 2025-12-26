@@ -107,7 +107,7 @@
 
 
 
-![Блохсхема](https://github.com/YuriKopshev/elk_home_work/blob/main/task2.txt)
+![Условная блохсхема](https://github.com/YuriKopshev/elk_home_work/blob/main/img/shemaBD_image.png)
 
 
 ---
